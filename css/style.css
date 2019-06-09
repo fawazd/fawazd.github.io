@@ -3062,3 +3062,11 @@ a
   color: #014d9e;
 }
 
+.CV
+{
+  line-height: 0px;
+  font-size: 24px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
